@@ -3,7 +3,7 @@
 # 🎓 CCRM — Campus Course & Records Manager
 
 ### A Console-Based Campus Management System
-**Object-Oriented Programming Project · SHASHANK (25BAI10569)**
+**Object-Oriented Programming Project · prakshep.k (25BAI11242)**
 
 ![Java](https://img.shields.io/badge/java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/paradigm-OOP-4B8BBE?style=for-the-badge)
